@@ -1,0 +1,4 @@
+- Kinds of  Machine Learning
+    - Supervised Learning 
+    - Reinforcement Learning 
+    - Unsupervised Learning
